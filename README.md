@@ -1,4 +1,4 @@
-# Jumia Price Monitor
+# jumia-price-monitor
 
 A 24/7 Playwright-based price monitoring bot for Jumia category pages. It scrapes product listings, persists the latest price for each product in SQLite, detects new deals and price drops, and sends Discord webhook notifications.
 
